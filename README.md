@@ -15,7 +15,7 @@ It allows displaying, filtering, and calculating totals using DOM manipulation.
 
 ```
 employee-management-system/
-├─ index.html
+├─ employee_details.html
 └─ employee_details.js
 ```
 
