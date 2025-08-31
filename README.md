@@ -19,7 +19,7 @@ employee-management-system/
 └─ employee_details.js
 ```
 
-- `index.html`: page structure and buttons that trigger the functions.
+- `employee_details.html`: page structure and buttons that trigger the functions.
 - `employee_details.js`: logic for listing, filtering, and calculations.
 
 ## Example Data
@@ -34,7 +34,7 @@ const employees = [
 
 ## Usage
 
-1. Open `index.html` in your browser.
+1. Open `.html` in your browser.
 2. Click the buttons to execute the functions.
 3. Results will be displayed in the `#employeesDetails` container or as an `alert`.
 
